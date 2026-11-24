@@ -1,0 +1,2 @@
+b = 'bye'
+print(b)
